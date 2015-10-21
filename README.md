@@ -5,7 +5,7 @@ A filter which uses a voronoi algorithm to tile up your image.
 </p>
 
 <p align="center">
-<img src="https://github.com/JulienSiems/Voronoi-Image-Filter/blob/master/Screenshots/19534250805_99750c421f_z.jpg" width="50%" style="display:block; margin:auto;"/>
+<img src="https://github.com/JulienSiems/Voronoi-Image-Filter/blob/master/Screenshots/19534250805_99750c421f_z.jpg" width="60%" style="display:block; margin:auto;"/>
 </p>
 
 Keep tiling!
